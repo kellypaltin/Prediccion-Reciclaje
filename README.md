@@ -12,3 +12,6 @@ Enfocado que mediante el IA podamos mejorar la clasificacion de los desechos al 
 ![image](https://github.com/user-attachments/assets/cb8b17be-8b5b-4429-bb9d-e2ee1ad9131b)
 
 ![Imagen de WhatsApp 2024-07-30 a las 14 13 09_4cfee6df](https://github.com/user-attachments/assets/13dfcdfd-550e-4277-82f9-99944f77d395)
+
+
+Dataset: Mohamed, M. (2021). Garbage Classification (12 classes) [Data set]. Retrieved from https://www.kaggle.com/datasets/mostafaabla/garbage-classification
