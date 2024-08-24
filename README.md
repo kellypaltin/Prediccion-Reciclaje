@@ -3,7 +3,7 @@ Predicciones para la Clasificacion de Materiales de Reciclaje mediante el Deploy
 
 ## Aplicación móvil: ReciclaTec
 
-Enfocado que mediante el IA podamos mejorar la clasificacion de los desechos al ingresarlos a la basura para mejorar el porcentaje del reciclaje correcto. Utlizamos Python en Google Colab y Java en Android Studio.
+Enfocado que mediante el IA podamos mejorar la clasificacion de los desechos al ingresarlos a la basura para mejorar el porcentaje del reciclaje correcto mediante la demostración de la clase correcto y el contenedor de basura en la cual la basura debe desecharse en. Utlizamos Python en Google Colab y Java en Android Studio. Además de la prediccion, se incorpora la funcion de guardar la informacion recuperado por las fotos en una base de datos de Firebase y recuperar datos de analitica.
 
 ![Imagen de WhatsApp 2024-07-23 a las 10 28 31_c27a0bbc](https://github.com/user-attachments/assets/bba79f64-d683-47e7-bb8d-e9919ef0a07b)
 
