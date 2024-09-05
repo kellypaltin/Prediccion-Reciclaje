@@ -1,0 +1,1 @@
+/home/apulla/Escritorio/projectAp2/app/build/intermediates/cxx/RelWithDebInfo/6u3w7276/obj/x86

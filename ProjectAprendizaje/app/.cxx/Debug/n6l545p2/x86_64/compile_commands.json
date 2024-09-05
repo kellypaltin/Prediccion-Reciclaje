@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/apulla/Escritorio/projectAp2/app/.cxx/Debug/n6l545p2/x86_64",
+  "command": "/home/apulla/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android24 --sysroot=/home/apulla/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dprojectap_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/projectap.dir/native-lib.cpp.o -c /home/apulla/Escritorio/projectAp2/app/src/main/cpp/native-lib.cpp",
+  "file": "/home/apulla/Escritorio/projectAp2/app/src/main/cpp/native-lib.cpp"
+}
+]

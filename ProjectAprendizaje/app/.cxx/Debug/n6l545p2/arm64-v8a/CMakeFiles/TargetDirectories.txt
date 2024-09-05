@@ -1,0 +1,3 @@
+/home/apulla/Escritorio/projectAp2/app/.cxx/Debug/n6l545p2/arm64-v8a/CMakeFiles/projectap.dir
+/home/apulla/Escritorio/projectAp2/app/.cxx/Debug/n6l545p2/arm64-v8a/CMakeFiles/edit_cache.dir
+/home/apulla/Escritorio/projectAp2/app/.cxx/Debug/n6l545p2/arm64-v8a/CMakeFiles/rebuild_cache.dir
